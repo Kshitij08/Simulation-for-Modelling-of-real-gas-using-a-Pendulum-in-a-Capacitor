@@ -2,7 +2,7 @@
 Simulation made using Unity for Modelling of real gas using a Pendulum in  a Capacitor
 
 ---
-## Screenshots of the Game
+## Screenshots
 * With Gravity
 ![physics project 1](https://user-images.githubusercontent.com/36204389/47809868-e8afb780-dd67-11e8-8881-c63e0d118cc9.PNG)
 
